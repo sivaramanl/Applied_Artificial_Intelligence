@@ -1,12 +1,6 @@
-Course recommender systems are a specific subclass of recommender systems.
-
-This directory contains the implementation of recommenders in utilizing the following Artificial Intelligence concepts.
+<b>Project description</b>
 <br>
-<ol>
-  <li>
-    <u>Propositional logic:</u> <i>Implemented in Jess programming language.</i>
-  </li>
-  <li>
-    <u>Fuzzy logic:</u> <i>Implemented using FuzzyJ toolkit.</i>
-  </li>
-</ol>
+This project aims to constuct a recruitment automation system using <b>Inference diagrams</b>.
+<br><br>
+<b>Tool utilized:</b>
+<br><a href="https://www.norsys.com/netica.html">Netica</a>
