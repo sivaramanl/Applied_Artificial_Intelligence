@@ -1,12 +1,3 @@
-Course recommender systems are a specific subclass of recommender systems.
+• Recruitment automation designs are prototyped using Netica.
 
-This directory contains the implementation of recommenders in utilizing the following Artificial Intelligence concepts.
-<br>
-<ol>
-  <li>
-    <u>Propositional logic:</u> <i>Implemented in Jess programming language.</i>
-  </li>
-  <li>
-    <u>Fuzzy logic:</u> <i>Implemented using FuzzyJ toolkit.</i>
-  </li>
-</ol>
+• This directory contains the prototypes of recruitment automation systems designed using Bayesian Networks and Inference diagram in Netica.
